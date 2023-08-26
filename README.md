@@ -1,4 +1,4 @@
-# Health-Insurance-Cost-Estimation-and-Analysis-Using-Data-Science.
+# Health-Insurance-Cost-Estimation-and-Analysis.
 Health Insurance Cost Estimation and Analysis Using Data Science.
 
 Project Title: Health Insurance Cost Estimation and Analysis.
